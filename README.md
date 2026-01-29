@@ -1,1 +1,1 @@
-Hi, I'm Jovany Secada (you can call me Jovy)! I'm currently learning Lua and JavaScript to expand my programming skills. I'm especially interested in Flipper Zeros, Roblox development, and building websites. I enjoy exploring new technologies and creating fun, useful projects. I'm always learning and looking for ways to improve and contribute to interesting work.
+
